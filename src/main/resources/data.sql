@@ -1,0 +1,1 @@
+INSERT INTO expanse(id,name, sum) VALUES(random_uuid(),'hotel', 250.0);
